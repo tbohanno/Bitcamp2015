@@ -14,6 +14,6 @@ public class keyscript : MonoBehaviour {
 	}
 
 	void OnMouseDown(){
-		audio.Play();
+		GetComponent<AudioSource>().Play();
 	}
 }
