@@ -14,9 +14,7 @@ Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\pi
 Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano2_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
 Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano2_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.036 seconds
+- Completed reload, in  0.065 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -28,76 +26,62 @@ OVRMainMenu: No OVRPlayerController attached.
 
 Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano2_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 179c -> priority: 1 
+  Thread -> id: 818 -> priority: 1 
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.509708 ms
+UnloadTime: 10.196379 ms
 OVRMainMenu: No OVRPlayerController attached.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1447.
-Total: 0.376719 ms (FindLiveObjects: 0.047503 ms CreateObjectMapping: 0.068248 ms MarkObjects: 0.249542 ms  DeleteObjects: 0.010823 ms)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.298926 ms
-OVRMainMenu: No OVRPlayerController attached.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1446.
-Total: 0.324706 ms (FindLiveObjects: 0.046300 ms CreateObjectMapping: 0.055921 ms MarkObjects: 0.211359 ms  DeleteObjects: 0.010823 ms)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.133867 ms
-OVRMainMenu: No OVRPlayerController attached.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1447.
-Total: 0.325908 ms (FindLiveObjects: 0.043895 ms CreateObjectMapping: 0.053215 ms MarkObjects: 0.217974 ms  DeleteObjects: 0.010222 ms)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.319395 ms
-OVRMainMenu: No OVRPlayerController attached.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1446.
-Total: 0.343046 ms (FindLiveObjects: 0.046601 ms CreateObjectMapping: 0.055921 ms MarkObjects: 0.229398 ms  DeleteObjects: 0.011124 ms)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+Unloading 163 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 0.492771 ms (FindLiveObjects: 0.089294 ms CreateObjectMapping: 0.055921 ms MarkObjects: 0.300954 ms  DeleteObjects: 0.046601 ms)
 
