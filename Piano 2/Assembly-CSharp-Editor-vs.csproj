@@ -79,7 +79,7 @@
  <HintPath>F:/Installed Programs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>F:/Code/Bitcamp 2015/Piano 2/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>F:/Code/Bitcamp2015/Piano 2/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>F:/Installed Programs/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

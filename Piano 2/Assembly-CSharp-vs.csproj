@@ -138,7 +138,7 @@
  <HintPath>F:/Installed Programs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>F:/Code/Bitcamp 2015/Piano 2/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>F:/Code/Bitcamp2015/Piano 2/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>F:/Installed Programs/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
