@@ -23,9 +23,9 @@ public class keyscript : MonoBehaviour {
 	
 	void OnTriggerEnter(Collider other) 
 	{
+
 		if (IsHand(other))
 		{
-			Debug.Log("A hand collided!");
 			audio.Play();
 		}  
 	}

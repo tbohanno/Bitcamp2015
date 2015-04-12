@@ -19,6 +19,11 @@ public class PlaySound : MonoBehaviour {
 	void OnMouseDown () {
 		PlayNote ();
 	}
+	
+
+	void OnCollisionEnter(Collision col) {
+		PlayNote ();
+	}
 
 	void PlayNote () {
 		GetComponent<AudioSource> ().pitch = Mathf.Pow (2f, semitone_offset/12.0f);
