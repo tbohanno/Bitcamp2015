@@ -63,9 +63,9 @@ Material:
         second: {r: .200000003, g: .200000003, b: .200000003, a: 1}
       data:
         first:
-          name: _RimColor
-        second: {r: .800000012, g: .800000012, b: .800000012, a: .600000024}
-      data:
-        first:
           name: _SColor
         second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .800000012, g: .800000012, b: .800000012, a: .600000024}
