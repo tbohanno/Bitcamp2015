@@ -1,0 +1,49 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\System.Core.dll (this message is harmless)
+OVRMainMenu: No OVRPlayerController attached.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Platform assembly: D:\Users\TimBo\Documents\Hackathon\git\Bitcamp2015\Piano 2\piano_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 18b8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.980852 ms
+OVRMainMenu: No OVRPlayerController attached.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 451 unused Assets to reduce memory usage. Loaded Objects now: 3003.
+Total: 0.755542 ms (FindLiveObjects: 0.112143 ms CreateObjectMapping: 0.080274 ms MarkObjects: 0.307268 ms  DeleteObjects: 0.255254 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.135963 ms
+OVRMainMenu: No OVRPlayerController attached.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5763 unused Assets to reduce memory usage. Loaded Objects now: 3477.
+Total: 3.942471 ms (FindLiveObjects: 0.315085 ms CreateObjectMapping: 0.259464 ms MarkObjects: 0.493372 ms  DeleteObjects: 2.874249 ms)
+
